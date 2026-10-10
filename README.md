@@ -6,7 +6,7 @@ Plantilla para la actividad en equipo (1 hora). El plan:
 3. **Pidan al agente** que extraiga los diseños y los convierta en páginas HTML en `views/`.
 4. **Suban los cambios** con *Conventional Commits*.
 
-El repo **empieza casi vacío a propósito**. `index.html`, las vistas y `docs/DESIGN.md` los crea el agente siguiendo las reglas de [`AGENTS.md`](AGENTS.md).
+El repo **empieza casi vacío a propósito**. `index.html`, las vistas y `docs/DESIGN.md` lo crea el agente siguiendo las reglas de [`AGENTS.md`](AGENTS.md).
 
 ```
 .
