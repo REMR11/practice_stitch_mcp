@@ -7,7 +7,7 @@
 node_modules/
 dist/
 
-# Sistema / editores
+# sistema / editores
 .DS_Store
 Thumbs.db
 *.log
